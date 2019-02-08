@@ -8,7 +8,7 @@
     android:background="@android:color/black"
     android:padding="20dp"
     android:theme="@android:style/ThemeOverlay.Material.Dark"
-    tools:context=".MainActivity">
+    tools:context=".activities.MainActivity">
 
     <TextView
         android:id="@+id/textView16"

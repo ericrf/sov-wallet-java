@@ -1,4 +1,4 @@
-package sov.wallet;
+package sov.wallet.util;
 
 import org.stellar.sdk.Server;
 
